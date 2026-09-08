@@ -11,3 +11,4 @@ function factorialFor(n) {
 
 // Ejemplo de uso:
 console.log(factorialFor(5)); // Resultado: 120git
+console.log(factorialFor(23)); // Resultado: 120git
